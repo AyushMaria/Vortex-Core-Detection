@@ -1,2 +1,2 @@
 # Vortex-Detection
-Vortex Cores Detection Using AdaBoost Algorithm
+Vortex Cores Detection Using Bagging and Boosting Algorithms 
