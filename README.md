@@ -1,4 +1,4 @@
-# Vortex-Detection
+# Vortex Core Detection
 Vortex Cores Detection Using Bagging and Boosting Algorithms 
 
 Yolo V5, an object detection algorithm, is utilized to find vortices in the image dataset that contains vortex images. Furthermore, feature extraction methods are deployed to extract features that are the most relevant to finding vortex cores. 
